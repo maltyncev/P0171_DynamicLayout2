@@ -10,6 +10,8 @@ import android.widget.LinearLayout;
 import android.widget.RadioGroup;
 import android.widget.Toast;
 
+// изменения 07.02
+
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
     LinearLayout llMain;
